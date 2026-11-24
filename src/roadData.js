@@ -1,0 +1,36 @@
+
+export const years = [2020, 2021, 2022];
+
+export const severityData = [
+  { state: "Bihar", values: [78, 80, 82] },
+  { state: "Punjab", values: [75, 78, 77] },
+  { state: "Jharkhand", values: [69, 74, 75] },
+  { state: "Meghalaya", values: [67, 76, 66] },
+  { state: "Uttarakhand", values: [65, 58, 62] },
+  { state: "Arunachal Pradesh", values: [54, 55, 65] },
+  { state: "Uttar Pradesh", values: [56, 56, 54] },
+  { state: "Gujarat", values: [46, 49, 48] },
+  { state: "Rajasthan", values: [48, 48, 47] },
+  { state: "Haryana", values: [48, 47, 47] },
+  { state: "Odisha", values: [48, 46, 47] },
+  { state: "West Bengal", values: [47, 49, 44] },
+  { state: "Maharashtra", values: [46, 46, 46] },
+  { state: "Chhattisgarh", values: [40, 43, 44] },
+  { state: "Tripura", values: [41, 41, 42] },
+  { state: "Assam", values: [40, 41, 43] },
+  { state: "Himachal Pradesh", values: [40, 44, 40] },
+  { state: "Chandigarh", values: [33, 46, 35] },
+  { state: "Sikkim", values: [34, 36, 44] },
+  { state: "Andhra Pradesh", values: [36, 38, 39] },
+  { state: "Telangana", values: [36, 35, 35] },
+  { state: "Karnataka", values: [29, 29, 29] },
+  { state: "Tamil Nadu", values: [29, 28, 28] },
+  { state: "Manipur", values: [29, 30, 25] },
+  { state: "Delhi", values: [29, 26, 26] },
+  { state: "Madhya Pradesh", values: [25, 25, 25] },
+  { state: "Puducherry", values: [15, 13, 15] },
+  { state: "J & K (incl. Ladakh)", values: [15, 15, 13] },
+  { state: "Nagaland", values: [11, 7, 15] },
+  { state: "Kerala", values: [11, 10, 10] },
+  { state: "Goa", values: [9, 8, 9] }
+];
